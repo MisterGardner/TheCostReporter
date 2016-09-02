@@ -1,0 +1,6 @@
+C:\Users\issacg\Documents\GitHub\TheCostReporter\TheCostReporter\TheCostReporter\obj\Debug\TheCostReporter.csprojResolveAssemblyReference.cache
+C:\Users\issacg\Documents\GitHub\TheCostReporter\TheCostReporter\TheCostReporter\bin\Debug\TheCostReporter.dll
+C:\Users\issacg\Documents\GitHub\TheCostReporter\TheCostReporter\TheCostReporter\bin\Debug\TheCostReporter.pdb
+C:\Users\issacg\Documents\GitHub\TheCostReporter\TheCostReporter\TheCostReporter\obj\Debug\TheCostReporter.dll
+C:\Users\issacg\Documents\GitHub\TheCostReporter\TheCostReporter\TheCostReporter\obj\Debug\TheCostReporter.pdb
+C:\Users\issacg\Documents\GitHub\TheCostReporter\TheCostReporter\TheCostReporter\bin\Debug\TheCostReporter.esriAddIn

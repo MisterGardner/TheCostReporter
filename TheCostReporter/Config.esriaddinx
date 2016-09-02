@@ -1,0 +1,20 @@
+﻿<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>TheCostReporter</Name>
+  <AddInID>{4efbb006-d1e3-433c-b135-fa308caaf8bf}</AddInID>
+  <Description>Type in a description for this Add-in.</Description>
+  <Version>1.0</Version>
+  <Image>Images\TheCostReporter.png</Image>
+  <Author>issacg</Author>
+  <Company></Company>
+  <Date>9/2/2016</Date>
+  <Targets>
+    <Target name="Desktop" version="10.2" />
+  </Targets>
+  <AddIn language="CLR4.5" library="TheCostReporter.dll" namespace="TheCostReporter">
+    <ArcMap>
+      <Commands>
+        <Button id="TheCostReporter_ButtonCostReporter" class="ButtonCostReporter" message="This tool creates a cost estimate report from a cost estimate database" caption="Cost Reporter" tip="Press this button to create a report from a cost estimate database." category="Add-In Controls" image="Images\ButtonCostReporter.png" />
+      </Commands>
+    </ArcMap>
+  </AddIn>
+</ESRI.Configuration>
